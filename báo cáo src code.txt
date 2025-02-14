@@ -1,0 +1,15 @@
+báo cáo dự án: 
+mô hình code: 
+gồm 3 class library : business object ,DataAccess và một dự án web api 
+business object: gồm các entity category, member, order, product , orderdetail , profile view model ( hiển thị thông tin và chỉnh sửa người dùng cho role user ) , sale report 
+class db context kết nối 
+dataaccess : gồm 2 foler DAO và repository 
+DAO và repository  : thao tác db , với category , product , member và order 
+web api : controller : quản lí thao tác api 
+foler user : quản lí trang razor page của user cũng như các chức năng CRUD 
+folder admin : quản lí trang razor page của admin cũng như các chức năng CRUD , chức năng báo cáo thống kê 
+folder account : giao diện razor page , quản lí đăng nhập 
+
+
+
+
