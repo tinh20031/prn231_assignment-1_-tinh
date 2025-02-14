@@ -1,0 +1,36 @@
+﻿@page 
+@model eStore.Pages.User.OrderDetailsModel
+@{
+	ViewData["Title"] = "Chi Tiết Đơn Hàng";
+}
+
+<h2>Chi Tiết Đơn Hàng #@Model.Order.OrderId</h2>
+<p>Ngày đặt: @Model.Order.OrderDate.ToString("dd/MM/yyyy")</p>
+<p>Ngày giao dự kiến: @Model.Order.RequiredDate.("dd/MM/yyyy")</p>
+
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Sản Phẩm</th>
+            <th>Giá</th>
+            <th>Số Lượng</th>
+            <th>Thành Tiền</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Order.OrderDetails)
+        {
+            <tr>
+                <td>@item.Products.ProductName</td>
+                <td>@item.UnitPrice.ToString("C")</td>
+                <td>@item.Quantity</td>
+                <td>@((item.UnitPrice * item.Quantity).ToString("C"))</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h4 class="text-right">Tổng cộng: @Model.Order.OrderDetails.Sum(d => d.UnitPrice * d.Quantity).ToString("C")</h4>

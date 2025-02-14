@@ -1,0 +1,46 @@
+﻿@page
+@model eStore.Pages.Admin.AddProductModel
+@{
+    Layout = "_AdminLayout";
+}
+
+<div class="container mt-4">
+    <h2 class="text-center text-primary">Thêm Sản Phẩm</h2>
+
+    <form method="post">
+        @Html.AntiForgeryToken()
+
+        <div class="form-group">
+            <label>Tên sản phẩm</label>
+            <input name="ProductName" class="form-control" required />
+        </div>
+
+        <div class="form-group">
+            <label>Trọng lượng (kg)</label>
+            <input name="Weight" type="number" step="0.01" class="form-control" required />
+        </div>
+
+        <div class="form-group">
+            <label>Giá</label>
+            <input name="UnitPrice" type="number" step="0.01" class="form-control" required />
+        </div>
+
+        <div class="form-group">
+            <label>Số lượng</label>
+            <input name="UnitsInStock" type="number" class="form-control" required />
+        </div>
+
+        <div class="form-group">
+            <label>Danh mục</label>
+            <select name="CategoryId" class="form-control" required>
+                @foreach (var category in Model.Categories)
+                {
+                    <option value="@category.CategoryId">@category.CategoryName</option>
+                }
+            </select>
+        </div>
+
+        <button type="submit" class="btn btn-success">Thêm</button>
+        <a href="/Admin/ManageProducts" class="btn btn-secondary">Quay lại</a>
+    </form>
+</div>

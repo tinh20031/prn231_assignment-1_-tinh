@@ -1,0 +1,102 @@
+is_global = true
+build_property.MudDebugAnalyzer = 
+build_property.MudAllowedAttributePattern = 
+build_property.MudAllowedAttributeList = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = eStore
+build_property.RootNamespace = eStore
+build_property.ProjectDir = D:\source_code\SC_PRN231\LAB\Assignment01Solution_StudentCode\eStore\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\source_code\SC_PRN231\LAB\Assignment01Solution_StudentCode\eStore
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/source_code/SC_PRN231/LAB/Assignment01Solution_StudentCode/eStore/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/source_code/SC_PRN231/LAB/Assignment01Solution_StudentCode/eStore/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/source_code/SC_PRN231/LAB/Assignment01Solution_StudentCode/eStore/Pages/Admin/AddProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRkUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/source_code/SC_PRN231/LAB/Assignment01Solution_StudentCode/eStore/Pages/Admin/AddUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRkVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/source_code/SC_PRN231/LAB/Assignment01Solution_StudentCode/eStore/Pages/Admin/AdminDashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRtaW5EYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/source_code/SC_PRN231/LAB/Assignment01Solution_StudentCode/eStore/Pages/Admin/EditProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRWRpdFByb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/source_code/SC_PRN231/LAB/Assignment01Solution_StudentCode/eStore/Pages/Admin/EditUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRWRpdFVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/source_code/SC_PRN231/LAB/Assignment01Solution_StudentCode/eStore/Pages/Admin/ManageOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWFuYWdlT3JkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/source_code/SC_PRN231/LAB/Assignment01Solution_StudentCode/eStore/Pages/Admin/ManageProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWFuYWdlUHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/source_code/SC_PRN231/LAB/Assignment01Solution_StudentCode/eStore/Pages/Admin/ManageUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWFuYWdlVXNlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/source_code/SC_PRN231/LAB/Assignment01Solution_StudentCode/eStore/Pages/Admin/SalesReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cU2FsZXNSZXBvcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/source_code/SC_PRN231/LAB/Assignment01Solution_StudentCode/eStore/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/source_code/SC_PRN231/LAB/Assignment01Solution_StudentCode/eStore/Pages/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/source_code/SC_PRN231/LAB/Assignment01Solution_StudentCode/eStore/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/source_code/SC_PRN231/LAB/Assignment01Solution_StudentCode/eStore/Pages/User/cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclxjYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/source_code/SC_PRN231/LAB/Assignment01Solution_StudentCode/eStore/Pages/User/OrderDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclxPcmRlckRldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/source_code/SC_PRN231/LAB/Assignment01Solution_StudentCode/eStore/Pages/User/Orders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclxPcmRlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/source_code/SC_PRN231/LAB/Assignment01Solution_StudentCode/eStore/Pages/User/Product.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclxQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/source_code/SC_PRN231/LAB/Assignment01Solution_StudentCode/eStore/Pages/User/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclxQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/source_code/SC_PRN231/LAB/Assignment01Solution_StudentCode/eStore/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

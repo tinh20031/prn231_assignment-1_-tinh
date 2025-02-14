@@ -1,0 +1,11 @@
+D:\source_code\SC_PRN231\LAB\Assignment01Solution_StudentCode\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\source_code\SC_PRN231\LAB\Assignment01Solution_StudentCode\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\source_code\SC_PRN231\LAB\Assignment01Solution_StudentCode\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\source_code\SC_PRN231\LAB\Assignment01Solution_StudentCode\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\source_code\SC_PRN231\LAB\Assignment01Solution_StudentCode\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\source_code\SC_PRN231\LAB\Assignment01Solution_StudentCode\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\source_code\SC_PRN231\LAB\Assignment01Solution_StudentCode\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\source_code\SC_PRN231\LAB\Assignment01Solution_StudentCode\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\source_code\SC_PRN231\LAB\Assignment01Solution_StudentCode\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\source_code\SC_PRN231\LAB\Assignment01Solution_StudentCode\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\source_code\SC_PRN231\LAB\Assignment01Solution_StudentCode\Repositories\obj\Debug\net8.0\ref\Repositories.dll

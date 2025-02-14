@@ -1,0 +1,1227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|d:\\source_code\\sc_prn231\\lab\\assignment01solution_studentcode\\estore\\pages\\admin\\salesreport.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\admin\\salesreport.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\admin\\salesreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\admin\\salesreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\admin\\manageusers.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\admin\\manageusers.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7317EC28-892E-434D-AEB5-2BA538F4454C}|BusinessObject\\BusinessObject.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\businessobject\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7317EC28-892E-434D-AEB5-2BA538F4454C}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7317EC28-892E-434D-AEB5-2BA538F4454C}|BusinessObject\\BusinessObject.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\businessobject\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7317EC28-892E-434D-AEB5-2BA538F4454C}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\admin\\manageusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\admin\\manageusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F1BCC4-2651-498E-B4AB-178346CB3B8F}|DataAccess\\DataAccess.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\dataaccess\\dao\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F1BCC4-2651-498E-B4AB-178346CB3B8F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dao\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F1BCC4-2651-498E-B4AB-178346CB3B8F}|DataAccess\\DataAccess.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\dataaccess\\dao\\memberdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F1BCC4-2651-498E-B4AB-178346CB3B8F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dao\\memberdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7317EC28-892E-434D-AEB5-2BA538F4454C}|BusinessObject\\BusinessObject.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\businessobject\\migrations\\20250213164701_updateorderdetailprimarykey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7317EC28-892E-434D-AEB5-2BA538F4454C}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\migrations\\20250213164701_updateorderdetailprimarykey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7317EC28-892E-434D-AEB5-2BA538F4454C}|BusinessObject\\BusinessObject.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\businessobject\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7317EC28-892E-434D-AEB5-2BA538F4454C}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7317EC28-892E-434D-AEB5-2BA538F4454C}|BusinessObject\\BusinessObject.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\businessobject\\estoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7317EC28-892E-434D-AEB5-2BA538F4454C}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\estoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7317EC28-892E-434D-AEB5-2BA538F4454C}|BusinessObject\\BusinessObject.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\businessobject\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7317EC28-892E-434D-AEB5-2BA538F4454C}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\admin\\adduser.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\admin\\adduser.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F1BCC4-2651-498E-B4AB-178346CB3B8F}|DataAccess\\DataAccess.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\dataaccess\\repositories\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F1BCC4-2651-498E-B4AB-178346CB3B8F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7317EC28-892E-434D-AEB5-2BA538F4454C}|BusinessObject\\BusinessObject.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\businessobject\\salesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7317EC28-892E-434D-AEB5-2BA538F4454C}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\salesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F1BCC4-2651-498E-B4AB-178346CB3B8F}|DataAccess\\DataAccess.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2F1BCC4-2651-498E-B4AB-178346CB3B8F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7317EC28-892E-434D-AEB5-2BA538F4454C}|BusinessObject\\BusinessObject.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\businessobject\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7317EC28-892E-434D-AEB5-2BA538F4454C}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\admin\\manageproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\admin\\manageproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\admin\\manageorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\admin\\manageorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\admin\\manageorders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\admin\\manageorders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\user\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\user\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\admin\\editproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\admin\\editproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F1BCC4-2651-498E-B4AB-178346CB3B8F}|DataAccess\\DataAccess.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\dataaccess\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F1BCC4-2651-498E-B4AB-178346CB3B8F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\admin\\manageproducts.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\admin\\manageproducts.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\admin\\addproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\admin\\addproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\admin\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\admin\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\admin\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\admin\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F1BCC4-2651-498E-B4AB-178346CB3B8F}|DataAccess\\DataAccess.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\dataaccess\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F1BCC4-2651-498E-B4AB-178346CB3B8F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F1BCC4-2651-498E-B4AB-178346CB3B8F}|DataAccess\\DataAccess.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\dataaccess\\dao\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F1BCC4-2651-498E-B4AB-178346CB3B8F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dao\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F1BCC4-2651-498E-B4AB-178346CB3B8F}|DataAccess\\DataAccess.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\dataaccess\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F1BCC4-2651-498E-B4AB-178346CB3B8F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F1BCC4-2651-498E-B4AB-178346CB3B8F}|DataAccess\\DataAccess.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\dataaccess\\dao\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F1BCC4-2651-498E-B4AB-178346CB3B8F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dao\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\admin\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\admin\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\admin\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\admin\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\user\\product.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\user\\product.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\user\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\user\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\admin\\edituser.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\admin\\edituser.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\admin\\admindashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\admin\\admindashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\user\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\user\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\user\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\user\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\user\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\user\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\user\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\user\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\admin\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\admin\\admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\user\\orders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\user\\orders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\user\\orderdetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\user\\orderdetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\shared\\_layout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\shared\\_layout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7317EC28-892E-434D-AEB5-2BA538F4454C}|BusinessObject\\BusinessObject.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\businessobject\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7317EC28-892E-434D-AEB5-2BA538F4454C}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\estore.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\estore.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\_viewstart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\_viewstart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\estore\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A400F56-E492-4B24-BF27-9874B698EF63}|eStore\\eStore.csproj|solutionrelative:estore\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7317EC28-892E-434D-AEB5-2BA538F4454C}|BusinessObject\\BusinessObject.csproj|D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\businessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7317EC28-892E-434D-AEB5-2BA538F4454C}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 41,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:42:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:55:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:51:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:53:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:79:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:72:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:91:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:93:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:94:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:89:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalesReport.cshtml.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\SalesReport.cshtml.cs",
+              "RelativeDocumentMoniker": "eStore\\Pages\\Admin\\SalesReport.cshtml.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\SalesReport.cshtml.cs",
+              "RelativeToolTip": "eStore\\Pages\\Admin\\SalesReport.cshtml.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAYwEAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:02:48.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManageUsers.cshtml",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\ManageUsers.cshtml",
+              "RelativeDocumentMoniker": "eStore\\Pages\\Admin\\ManageUsers.cshtml",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\ManageUsers.cshtml",
+              "RelativeToolTip": "eStore\\Pages\\Admin\\ManageUsers.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T10:57:10.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\User\\Profile.cshtml",
+              "RelativeDocumentMoniker": "eStore\\Pages\\User\\Profile.cshtml",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\User\\Profile.cshtml",
+              "RelativeToolTip": "eStore\\Pages\\User\\Profile.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T03:29:35.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\BusinessObject\\Order.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Order.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\BusinessObject\\Order.cs",
+              "RelativeToolTip": "BusinessObject\\Order.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA8wB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:10:34.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\BusinessObject\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\OrderDetail.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\BusinessObject\\OrderDetail.cs",
+              "RelativeToolTip": "BusinessObject\\OrderDetail.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAmwBsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:41:51.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageUsers.cshtml.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\ManageUsers.cshtml.cs",
+              "RelativeDocumentMoniker": "eStore\\Pages\\Admin\\ManageUsers.cshtml.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\ManageUsers.cshtml.cs",
+              "RelativeToolTip": "eStore\\Pages\\Admin\\ManageUsers.cshtml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAwCIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:59:42.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesReport.cshtml",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\SalesReport.cshtml",
+              "RelativeDocumentMoniker": "eStore\\Pages\\Admin\\SalesReport.cshtml",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\SalesReport.cshtml",
+              "RelativeToolTip": "eStore\\Pages\\Admin\\SalesReport.cshtml",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAYwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T10:58:49.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\appsettings.json",
+              "RelativeDocumentMoniker": "eStore\\appsettings.json",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\appsettings.json",
+              "RelativeToolTip": "eStore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-10T16:29:23.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "eStore\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "eStore\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAQwDIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T18:53:12.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderDAO.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\DataAccess\\DAO\\OrderDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAO\\OrderDAO.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\DataAccess\\DAO\\OrderDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAO\\OrderDAO.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAgwF8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:33:34.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MemberDAO.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\DataAccess\\DAO\\MemberDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAO\\MemberDAO.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\DataAccess\\DAO\\MemberDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAO\\MemberDAO.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAApwGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T16:59:47.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250213164701_UpdateOrderDetailPrimaryKey.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\BusinessObject\\Migrations\\20250213164701_UpdateOrderDetailPrimaryKey.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Migrations\\20250213164701_UpdateOrderDetailPrimaryKey.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\BusinessObject\\Migrations\\20250213164701_UpdateOrderDetailPrimaryKey.cs",
+              "RelativeToolTip": "BusinessObject\\Migrations\\20250213164701_UpdateOrderDetailPrimaryKey.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAgwHUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T16:47:33.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Products.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\BusinessObject\\Products.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Products.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\BusinessObject\\Products.cs",
+              "RelativeToolTip": "BusinessObject\\Products.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAqwCEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T15:24:48.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "eStoreDBContext.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\BusinessObject\\eStoreDBContext.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\eStoreDBContext.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\BusinessObject\\eStoreDBContext.cs",
+              "RelativeToolTip": "BusinessObject\\eStoreDBContext.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAA1wCsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T16:25:36.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Member.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\BusinessObject\\Member.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Member.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\BusinessObject\\Member.cs",
+              "RelativeToolTip": "BusinessObject\\Member.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwBYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:10:35.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddUser.cshtml.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\AddUser.cshtml.cs",
+              "RelativeDocumentMoniker": "eStore\\Pages\\Admin\\AddUser.cshtml.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\AddUser.cshtml.cs",
+              "RelativeToolTip": "eStore\\Pages\\Admin\\AddUser.cshtml.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAswDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:25:22.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\DataAccess\\Repositories\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\MemberRepository.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\DataAccess\\Repositories\\MemberRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\MemberRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwBwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:08:02.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SalesReport.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\BusinessObject\\SalesReport.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\SalesReport.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\BusinessObject\\SalesReport.cs",
+              "RelativeToolTip": "BusinessObject\\SalesReport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:03:38.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DataAccess",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-13T15:43:40.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProfileViewModel.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\BusinessObject\\ProfileViewModel.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\ProfileViewModel.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\BusinessObject\\ProfileViewModel.cs",
+              "RelativeToolTip": "BusinessObject\\ProfileViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T04:33:39.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ManageProducts.cshtml",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\ManageProducts.cshtml",
+              "RelativeDocumentMoniker": "eStore\\Pages\\Admin\\ManageProducts.cshtml",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\ManageProducts.cshtml",
+              "RelativeToolTip": "eStore\\Pages\\Admin\\ManageProducts.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T10:59:55.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ManageOrders.cshtml",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\ManageOrders.cshtml",
+              "RelativeDocumentMoniker": "eStore\\Pages\\Admin\\ManageOrders.cshtml",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\ManageOrders.cshtml",
+              "RelativeToolTip": "eStore\\Pages\\Admin\\ManageOrders.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T10:58:29.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ManageOrders.cshtml.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\ManageOrders.cshtml.cs",
+              "RelativeDocumentMoniker": "eStore\\Pages\\Admin\\ManageOrders.cshtml.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\ManageOrders.cshtml.cs",
+              "RelativeToolTip": "eStore\\Pages\\Admin\\ManageOrders.cshtml.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAgwHQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:37:57.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Program.cs",
+              "RelativeDocumentMoniker": "eStore\\Program.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Program.cs",
+              "RelativeToolTip": "eStore\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:06:41.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EditProduct.cshtml.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\EditProduct.cshtml.cs",
+              "RelativeDocumentMoniker": "eStore\\Pages\\Admin\\EditProduct.cshtml.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\EditProduct.cshtml.cs",
+              "RelativeToolTip": "eStore\\Pages\\Admin\\EditProduct.cshtml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAnwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:16:19.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderDetails.cshtml",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\User\\OrderDetails.cshtml",
+              "RelativeDocumentMoniker": "eStore\\Pages\\User\\OrderDetails.cshtml",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\User\\OrderDetails.cshtml",
+              "RelativeToolTip": "eStore\\Pages\\User\\OrderDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T18:15:54.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\DataAccess\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\OrderRepository.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\DataAccess\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\OrderRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAAgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:34:36.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ManageProducts.cshtml.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\ManageProducts.cshtml.cs",
+              "RelativeDocumentMoniker": "eStore\\Pages\\Admin\\ManageProducts.cshtml.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\ManageProducts.cshtml.cs",
+              "RelativeToolTip": "eStore\\Pages\\Admin\\ManageProducts.cshtml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAQwCYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:57:29.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddProduct.cshtml.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\AddProduct.cshtml.cs",
+              "RelativeDocumentMoniker": "eStore\\Pages\\Admin\\AddProduct.cshtml.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\AddProduct.cshtml.cs",
+              "RelativeToolTip": "eStore\\Pages\\Admin\\AddProduct.cshtml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:15:58.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "eStore\\Pages\\Admin\\AddProduct.cshtml",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\AddProduct.cshtml",
+              "RelativeToolTip": "eStore\\Pages\\Admin\\AddProduct.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T14:15:43.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\DataAccess\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\DataAccess\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:57:48.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\DataAccess\\DAO\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAO\\ProductDAO.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\DataAccess\\DAO\\ProductDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAO\\ProductDAO.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:41:09.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EditProduct.cshtml",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\EditProduct.cshtml",
+              "RelativeDocumentMoniker": "eStore\\Pages\\Admin\\EditProduct.cshtml",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\EditProduct.cshtml",
+              "RelativeToolTip": "eStore\\Pages\\Admin\\EditProduct.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwCIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T14:16:15.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\DataAccess\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\DataAccess\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:21:40.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AddUser.cshtml",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\AddUser.cshtml",
+              "RelativeDocumentMoniker": "eStore\\Pages\\Admin\\AddUser.cshtml",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\AddUser.cshtml",
+              "RelativeToolTip": "eStore\\Pages\\Admin\\AddUser.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T13:20:23.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CategoryDAO.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\DataAccess\\DAO\\CategoryDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAO\\CategoryDAO.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\DataAccess\\DAO\\CategoryDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAO\\CategoryDAO.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwBQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T17:07:51.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EditUser.cshtml",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\EditUser.cshtml",
+              "RelativeDocumentMoniker": "eStore\\Pages\\Admin\\EditUser.cshtml",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\EditUser.cshtml",
+              "RelativeToolTip": "eStore\\Pages\\Admin\\EditUser.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T13:20:38.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Product.cshtml.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\User\\Product.cshtml.cs",
+              "RelativeDocumentMoniker": "eStore\\Pages\\User\\Product.cshtml.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\User\\Product.cshtml.cs",
+              "RelativeToolTip": "eStore\\Pages\\User\\Product.cshtml.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowC4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:14:47.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Product.cshtml",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\User\\Product.cshtml",
+              "RelativeDocumentMoniker": "eStore\\Pages\\User\\Product.cshtml",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\User\\Product.cshtml",
+              "RelativeToolTip": "eStore\\Pages\\User\\Product.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCMAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T14:11:21.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EditUser.cshtml.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\EditUser.cshtml.cs",
+              "RelativeDocumentMoniker": "eStore\\Pages\\Admin\\EditUser.cshtml.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\EditUser.cshtml.cs",
+              "RelativeToolTip": "eStore\\Pages\\Admin\\EditUser.cshtml.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAwwCMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:34:09.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AdminDashboard.cshtml.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\AdminDashboard.cshtml.cs",
+              "RelativeDocumentMoniker": "eStore\\Pages\\Admin\\AdminDashboard.cshtml.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\AdminDashboard.cshtml.cs",
+              "RelativeToolTip": "eStore\\Pages\\Admin\\AdminDashboard.cshtml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:00:11.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "cart.cshtml",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\User\\cart.cshtml",
+              "RelativeDocumentMoniker": "eStore\\Pages\\User\\cart.cshtml",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\User\\cart.cshtml",
+              "RelativeToolTip": "eStore\\Pages\\User\\cart.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T14:54:51.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "eStore\\Controllers\\MemberController.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "eStore\\Controllers\\MemberController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAuwEMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:06:13.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Profile.cshtml.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\User\\Profile.cshtml.cs",
+              "RelativeDocumentMoniker": "eStore\\Pages\\User\\Profile.cshtml.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\User\\Profile.cshtml.cs",
+              "RelativeToolTip": "eStore\\Pages\\User\\Profile.cshtml.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T03:32:05.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "eStore\\Pages\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "eStore\\Pages\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T13:11:44.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\User\\Orders.cshtml",
+              "RelativeDocumentMoniker": "eStore\\Pages\\User\\Orders.cshtml",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\User\\Orders.cshtml",
+              "RelativeToolTip": "eStore\\Pages\\User\\Orders.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T18:10:20.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "cart.cshtml.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\User\\cart.cshtml.cs",
+              "RelativeDocumentMoniker": "eStore\\Pages\\User\\cart.cshtml.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\User\\cart.cshtml.cs",
+              "RelativeToolTip": "eStore\\Pages\\User\\cart.cshtml.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAUwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:55:38.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AdminDashboard.cshtml",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\AdminDashboard.cshtml",
+              "RelativeDocumentMoniker": "eStore\\Pages\\Admin\\AdminDashboard.cshtml",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Admin\\AdminDashboard.cshtml",
+              "RelativeToolTip": "eStore\\Pages\\Admin\\AdminDashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T10:56:54.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "eStore\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "eStore\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwEUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:15:49.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "eStore\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "eStore\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T18:20:07.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "eStore\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "eStore\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:35:06.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "eStore\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Properties\\launchSettings.json",
+              "RelativeToolTip": "eStore\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-11T19:26:32.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "eStore\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "eStore\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T18:21:03.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Orders.cshtml.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\User\\Orders.cshtml.cs",
+              "RelativeDocumentMoniker": "eStore\\Pages\\User\\Orders.cshtml.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\User\\Orders.cshtml.cs",
+              "RelativeToolTip": "eStore\\Pages\\User\\Orders.cshtml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:10:34.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "eStore\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "eStore\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwBQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T18:47:52.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "OrderDetails.cshtml.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\User\\OrderDetails.cshtml.cs",
+              "RelativeDocumentMoniker": "eStore\\Pages\\User\\OrderDetails.cshtml.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\User\\OrderDetails.cshtml.cs",
+              "RelativeToolTip": "eStore\\Pages\\User\\OrderDetails.cshtml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwBkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:16:07.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "eStore\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Index.cshtml",
+              "RelativeToolTip": "eStore\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T07:51:09.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "_Layout.cshtml.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Shared\\_Layout.cshtml.cs",
+              "RelativeDocumentMoniker": "eStore\\Pages\\Shared\\_Layout.cshtml.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Shared\\_Layout.cshtml.cs",
+              "RelativeToolTip": "eStore\\Pages\\Shared\\_Layout.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T19:04:10.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\BusinessObject\\CartItem.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\CartItem.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\BusinessObject\\CartItem.cs",
+              "RelativeToolTip": "BusinessObject\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:41:22.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "eStore.http",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\eStore.http",
+              "RelativeDocumentMoniker": "eStore\\eStore.http",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\eStore.http",
+              "RelativeToolTip": "eStore\\eStore.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-12T15:21:52.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "eStore\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "eStore\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:53:42.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "_ViewStart.cshtml.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\_ViewStart.cshtml.cs",
+              "RelativeDocumentMoniker": "eStore\\Pages\\_ViewStart.cshtml.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\_ViewStart.cshtml.cs",
+              "RelativeToolTip": "eStore\\Pages\\_ViewStart.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T18:22:10.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "eStore\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "eStore\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T18:54:36.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "eStore\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\eStore\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "eStore\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T18:54:41.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\BusinessObject\\appsettings.json",
+              "RelativeDocumentMoniker": "BusinessObject\\appsettings.json",
+              "ToolTip": "D:\\source_code\\SC_PRN231\\LAB\\Assignment01Solution_StudentCode\\BusinessObject\\appsettings.json",
+              "RelativeToolTip": "BusinessObject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-10T16:29:55.743Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

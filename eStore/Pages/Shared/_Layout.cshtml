@@ -1,0 +1,88 @@
+﻿@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"] - eStore</title>
+
+    <!-- Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- FontAwesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+
+    <!-- MudBlazor -->
+    <link href="~/_content/MudBlazor/MudBlazor.min.css" rel="stylesheet" />
+    <script src="~/_content/MudBlazor/MudBlazor.min.js"></script>
+
+
+
+
+</head>
+<body class="d-flex flex-column min-vh-100">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" asp-page="/Index">eStore</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav me-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/User/cart">giỏ hàng </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/User/Product">Sản phẩm</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/User/Orders">đơn hàng </a>
+                    </li>
+                </ul>
+
+                <ul class="navbar-nav">
+                    @if (HttpContextAccessor.HttpContext.Session.GetString("UserEmail") != null)
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link text-white" href="/User/Profile">
+                                <i class="fas fa-user"></i> Xin chào, @HttpContextAccessor.HttpContext.Session.GetString("UserEmail")
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link btn btn-danger text-white px-3" href="/Account/Logout">
+                                <i class="fas fa-sign-out-alt"></i> Đăng xuất
+                            </a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link btn btn-primary text-white px-3" href="/Account/Login">
+                                <i class="fas fa-sign-in-alt"></i> Đăng nhập
+                            </a>
+
+
+
+                        </li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container mt-4">
+        @RenderBody()
+      
+
+    </div>
+
+    <footer class="bg-dark text-light text-center py-3 mt-auto">
+        <p>&copy; 2024 eStore - Tất cả quyền được bảo lưu</p>
+    </footer>
+
+</body>
+</html>

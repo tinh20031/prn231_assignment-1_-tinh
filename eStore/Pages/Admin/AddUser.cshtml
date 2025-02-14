@@ -1,0 +1,34 @@
+﻿@page
+@model eStore.Pages.Admin.AddUserModel
+@{
+    Layout = "_AdminLayout";
+}
+
+<div class="container mt-4">
+    <h2 class="text-center text-success">Thêm Người Dùng</h2>
+
+    <form method="post">
+        @Html.AntiForgeryToken()
+        <div class="form-group">
+            <label>Email:</label>
+            <input type="email" name="email" class="form-control" required />
+        </div>
+        <div class="form-group">
+            <label>Mật khẩu:</label>
+            <input type="password" name="password" class="form-control" required />
+        </div>
+        <div class="form-group">
+            <label>Công Ty:</label>
+            <input type="text" name="companyName" class="form-control" required />
+        </div>
+        <div class="form-group">
+            <label>Thành Phố:</label>
+            <input type="text" name="city" class="form-control" required />
+        </div>
+        <div class="form-group">
+            <label>Quốc Gia:</label>
+            <input type="text" name="country" class="form-control" required />
+        </div>
+        <button type="submit" class="btn btn-primary">Thêm Người Dùng</button>
+    </form>
+</div>

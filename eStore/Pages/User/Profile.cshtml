@@ -1,0 +1,42 @@
+﻿@page
+@model eStore.Pages.User.ProfileModel
+@{
+    ViewData["Title"] = "Thông tin cá nhân";
+}
+
+<h2>Thông tin cá nhân</h2>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+<form method="post">
+    @Html.AntiForgeryToken()
+
+    <!-- Hiển thị Email dưới dạng read-only -->
+    <div class="mb-3">
+        <label for="Email" class="form-label">Email</label>
+        <input id="Email" name="Email" type="email" class="form-control" value="@Model.Email" readonly />
+    </div>
+
+    <!-- Các trường cập nhật thuộc ViewModel Profile -->
+    <div class="mb-3">
+        <label for="CompanyName" class="form-label">Tên công ty</label>
+        <input id="CompanyName" name="Profile.CompanyName" type="text" class="form-control" value="@Model.Profile.CompanyName" />
+    </div>
+
+    <div class="mb-3">
+        <label for="City" class="form-label">Thành phố</label>
+        <input id="City" name="Profile.City" type="text" class="form-control" value="@Model.Profile.City" />
+    </div>
+
+    <div class="mb-3">
+        <label for="Country" class="form-label">Quốc gia</label>
+        <input id="Country" name="Profile.Country" type="text" class="form-control" value="@Model.Profile.Country" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Cập nhật</button>
+</form>

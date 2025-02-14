@@ -1,0 +1,47 @@
+﻿@page
+@model eStore.Pages.User.ProductModel
+@{
+}
+<div class="container mt-4">
+    <h2 class="text-center text-primary"><i class="fas fa-shopping-cart"></i> Danh Sách Sản Phẩm</h2>
+    <form method="get" class="mb-4">
+        <div class="row">
+            <div class="col-md-4">
+                <input type="text" name="SearchKeyword" value="@Model.SearchKeyword" class="form-control" placeholder="Nhập tên sản phẩm...">
+            </div>
+            <div class="col-md-3">
+                <input type="number" name="MaxPrice" value="@Model.MaxPrice" class="form-control" placeholder="Giá tối đa">
+            </div>
+            <div class="col-md-2">
+                <button type="submit" class="btn btn-primary"><i class="fas fa-search"></i> Tìm kiếm</button>
+            </div>
+        </div>
+    </form>
+    <div class="row">
+        @foreach (var product in Model.Products)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card h-100 shadow-sm">
+                    <div class="card-body">
+                        <h5 class="card-title">@product.ProductName</h5>
+                        <p class="card-text">
+                            <strong>Giá:</strong> @product.UnitPrice.ToString("C")<br>
+                            <strong>Còn lại:</strong> @product.UnitsInStock sản phẩm<br>
+                            <strong>Danh mục:</strong> @(product.category != null ? product.category.CategoryName : "Chưa phân loại")
+                        </p>
+
+                        <!-- Form đơn giản, luôn hoạt động tốt -->
+                        <form method="post" asp-page-handler="BuyNow">
+                            @Html.AntiForgeryToken()
+                            <input type="hidden" name="productId" value="@product.ProductId" />
+                            <button type="submit" class="btn btn-success">
+                                <i class="fas fa-cart-plus"></i> mua
+                            </button>
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

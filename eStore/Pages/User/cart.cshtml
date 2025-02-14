@@ -1,0 +1,51 @@
+﻿@page
+@model eStore.Pages.User.CartModel
+@{
+    ViewData["Title"] = "Giỏ Hàng";
+}
+
+<div class="container mt-4">
+    <h2 class="text-center text-primary"><i class="fas fa-shopping-cart"></i> Giỏ Hàng</h2>
+
+    @if (Model.CartItems == null || Model.CartItems.Count == 0)
+    {
+        <p class="text-center text-muted">Giỏ hàng của bạn đang trống.</p>
+    }
+    else
+    {
+        <form method="post">
+            @Html.AntiForgeryToken()
+            <table class="table table-bordered table-striped">
+                <thead>
+                    <tr>
+                        <th>Tên Sản Phẩm</th>
+                        <th>Giá</th>
+                        <th>Số Lượng</th>
+                        <th>Tổng</th>
+                        <th>Hành Động</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.CartItems)
+                    {
+                        <tr>
+                            <td>@item.ProductName</td>
+                            <td>@item.UnitPrice.ToString("C")</td>
+                            <td>
+                                <input type="hidden" name="productIds" value="@item.ProductId" />
+                                <input type="number" name="quantities" value="@item.Quantity" min="1" class="form-control w-50 d-inline" />
+                            </td>
+                            <td>@((item.UnitPrice * item.Quantity).ToString("C"))</td>
+                            <td>
+                                <button type="submit" name="removeProductId" value="@item.ProductId" class="btn btn-danger btn-sm">Xóa</button>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <h4 class="text-right">Tổng cộng: @Model.TotalPrice.ToString("C")</h4>
+            <button type="submit" name="updateCart" class="btn btn-primary">Cập nhật giỏ hàng</button>
+            <button type="submit" name="checkout" class="btn btn-success">Thanh Toán</button>
+        </form>
+    }
+</div>

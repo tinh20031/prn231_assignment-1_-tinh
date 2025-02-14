@@ -1,0 +1,43 @@
+﻿@page
+@model eStore.Pages.User.OrdersModel
+@{
+    ViewData["Title"] = "Danh sách đơn hàng";
+}
+
+<div class="container mt-4">
+    <h2 class="text-center text-primary"><i class="fas fa-receipt"></i> Đơn Hàng Của Bạn</h2>
+
+    @if (Model.Orders == null || Model.Orders.Count == 0)
+    {
+        <p class="text-center text-muted">Bạn chưa có đơn hàng nào.</p>
+    }
+    else
+    {
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>Mã Đơn Hàng</th>
+                    <th>Ngày Đặt</th>
+                    <th>Ngày Giao</th>
+                    <th>Tổng Tiền</th>
+                    <th>Chi Tiết</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var order in Model.Orders)
+                {
+                    <tr>
+                        <td>@order.OrderId</td>
+                        <td>@order.OrderDate.ToString("dd/MM/yyyy")</td>
+                        <td>@(order.ShippedDate.HasValue ? order.ShippedDate.Value.ToString("dd/MM/yyyy") : "Chưa giao")</td>
+                        <td>@order.TotalPrice.ToString("C")</td>
+                        <td>
+                            <a href="/User/OrderDetails?id=@order.OrderId" class="btn btn-info btn-sm">Xem</a>
+
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>

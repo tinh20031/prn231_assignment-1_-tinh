@@ -1,0 +1,55 @@
+﻿@page
+@model eStore.Pages.Admin.ManageUsersModel
+@{
+    Layout = "_AdminLayout";
+}
+
+<div class="container mt-4">
+    <h2 class="text-center text-primary"><i class="fas fa-users"></i> Quản lý Người Dùng</h2>
+
+    <a href="/Admin/AddUser" class="btn btn-success mb-3">Thêm người dùng</a>
+
+    <table class="table table-bordered">
+        <thead class="thead-dark">
+            <tr>
+                <th>ID</th>
+                <th>Email</th>
+                <th>Công Ty</th>
+                <th>Thành Phố</th>
+                <th>Quốc Gia</th>
+                <th>Hành Động</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model.Users != null && Model.Users.Any())
+            {
+                @foreach (var user in Model.Users)
+                {
+                    <tr>
+                        <td>@user.MemberId</td>
+                        <td>@user.Email</td>
+                        <td>@user.CompanyName</td>
+                        <td>@user.City</td>
+                        <td>@user.Country</td>
+                        <td>
+                            <a href="/Admin/EditUser/@user.MemberId" class="btn btn-warning btn-sm">Sửa</a>
+
+                            <form method="post" asp-page-handler="DeleteUser" class="d-inline">
+                                @Html.AntiForgeryToken()
+                                <input type="hidden" name="memberId" value="@user.MemberId" />
+                                <button type="submit" class="btn btn-danger btn-sm">Xóa</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="6" class="text-center text-muted">Không có người dùng nào</td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+</div>
